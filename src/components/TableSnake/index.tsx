@@ -8,7 +8,7 @@ const INITIAL_SNAKE = [
     { x: 9, y: 10 },
     { x: 8, y: 10 },
 ];
-const INITIAL_FOOD = { x: 15, y: 15 };
+const INITIAL_FOOD = { x: 5, y: 5 };
 const INITIAL_DIRECTION = "right";
 const GAME_SPEED = 150;
 
